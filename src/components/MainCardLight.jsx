@@ -16,7 +16,7 @@ export default function MainCardLight() {
           <Image
             alt="Card background"
             className="object-cover rounded-xl w-full"
-            src="sergio.jpeg"
+            src="yagop.jpg"
             width={320}
           />
         </div>
